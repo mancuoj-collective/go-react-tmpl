@@ -1,3 +1,3 @@
-module mancuoj.me/go-react-tmpl
+module grt.mancuoj.me
 
 go 1.23.4
