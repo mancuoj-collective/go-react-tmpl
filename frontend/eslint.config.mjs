@@ -12,6 +12,7 @@ export default defineConfig(
     rules: {
       'tailwindcss/no-custom-classname': 'off',
       'react-refresh/only-export-components': 'off',
+      '@eslint-react/no-forward-ref': 'off',
     },
   },
 )

@@ -1,4 +1,17 @@
 {
+  // Go inlay hints
+  "editor.inlayHints.enabled": "on",
+  "editor.inlayHints.fontSize": 14,
+  "editor.inlayHints.padding": true,
+  "go.inlayHints.assignVariableTypes": true,
+  "go.inlayHints.compositeLiteralFields": true,
+  "go.inlayHints.compositeLiteralTypes": true,
+  "go.inlayHints.constantValues": true,
+  "go.inlayHints.functionTypeParameters": true,
+  "go.inlayHints.parameterNames": true,
+  "go.inlayHints.rangeVariableTypes": true,
+
+
   // You shouldn't use formatter with this ESLint config
   "[javascript][javascriptreact][typescript][typescriptreact][json][jsonc]": {
     "editor.formatOnSave": false,
